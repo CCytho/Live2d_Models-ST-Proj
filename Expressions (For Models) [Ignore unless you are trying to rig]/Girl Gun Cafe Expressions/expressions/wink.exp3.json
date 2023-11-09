@@ -92,11 +92,6 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_SHY",
-			"Value": 0.915,
-			"Blend": "Add"
-		},
-		{
 			"Id": "PARAM_WATER",
 			"Value": 0,
 			"Blend": "Add"
@@ -104,6 +99,11 @@
 		{
 			"Id": "PARAM_MOUTH_Y",
 			"Value": -0.277,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_XIU",
+			"Value": 0.5,
 			"Blend": "Add"
 		}
 	]

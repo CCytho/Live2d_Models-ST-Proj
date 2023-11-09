@@ -3,12 +3,7 @@
 	"Parameters": [
 		{
 			"Id": "PARAM_MOUTH_FORM",
-			"Value": -0.6,
-			"Blend": "Add"
-		},
-		{
-			"Id": "PARAM_XIU",
-			"Value": -0.287,
+			"Value": 0.812,
 			"Blend": "Add"
 		}
 	]

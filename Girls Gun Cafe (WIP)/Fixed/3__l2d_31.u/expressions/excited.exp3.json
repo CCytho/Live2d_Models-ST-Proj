@@ -7,8 +7,18 @@
 			"Blend": "Add"
 		},
 		{
+			"Id": "PARAM_FAT",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_EYE_CHANGE2",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
 			"Id": "PARAM_XIU",
-			"Value": -0.287,
+			"Value": -0.5,
 			"Blend": "Add"
 		}
 	]
