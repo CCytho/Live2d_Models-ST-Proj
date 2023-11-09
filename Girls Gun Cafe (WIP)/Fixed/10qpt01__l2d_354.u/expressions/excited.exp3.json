@@ -3,22 +3,22 @@
 	"Parameters": [
 		{
 			"Id": "PARAM_MOUTH_FORM",
-			"Value": 0,
+			"Value": -0.6,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_EYE_R_SMILE",
+			"Id": "PARAM_FAT",
 			"Value": 1,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_EYE_L_OPEN",
-			"Value": 0,
+			"Id": "PARAM_EYE_CHANGE2",
+			"Value": 1,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_EYE_L_SMILE",
-			"Value": 1,
+			"Id": "PARAM_XIU",
+			"Value": -0.5,
 			"Blend": "Add"
 		}
 	]

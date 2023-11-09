@@ -28,7 +28,17 @@
 		},
 		{
 			"Id": "PARAM_MOUTH_FORM",
-			"Value": -2,
+			"Value": 1.4,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_WATER",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_HEIYANQUAN",
+			"Value": -0.528,
 			"Blend": "Add"
 		},
 		{
@@ -42,13 +52,18 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_Tear",
-			"Value": 2,
+			"Id": "PARAM_HAN",
+			"Value": 1,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_MouthType2",
-			"Value": -1,
+			"Id": "PARAM_TERE",
+			"Value": 0.4,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_XIU",
+			"Value": 0.5,
 			"Blend": "Add"
 		}
 	]
