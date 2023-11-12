@@ -3,7 +3,7 @@
 	"Parameters": [
 		{
 			"Id": "PARAM_MOUTH_FORM",
-			"Value": 1,
+			"Value": 1.4,
 			"Blend": "Add"
 		},
 		{
@@ -27,58 +27,48 @@
 			"Blend": "Add"
 		},
 		{
+			"Id": "PARAM_MOUTH_SPECIAL",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_MOUTH_SIZE",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_MOUTH_OPEN",
+			"Value": 1.107,
+			"Blend": "Add"
+		},
+		{
 			"Id": "PARAM_BROW_R_Y",
-			"Value": -0.921,
+			"Value": 0.098,
 			"Blend": "Add"
 		},
 		{
 			"Id": "PARAM_BROW_L_Y",
+			"Value": 0.128,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_HEIYANQUAN",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_HEIXIAN",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_TERE",
 			"Value": -1,
 			"Blend": "Add"
 		},
 		{
 			"Id": "PARAM_HEI",
-			"Value": 0.362,
-			"Blend": "Add"
-		},
-		{
-			"Id": "PARAM_ANGRY",
-			"Value": 0.78,
-			"Blend": "Add"
-		},
-		{
-			"Id": "PARAM_BROW_L_FORM",
-			"Value": -1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "PARAM_BROW_R_FORM",
-			"Value": -1,
-			"Blend": "Add"
-		},
-		{
-			"Id": "PARAM_HEIXIAN_FACE",
-			"Value": 0.606,
-			"Blend": "Add"
-		},
-		{
-			"Id": "PARAM_HEIYANQUAN",
-			"Value": 0.567,
-			"Blend": "Add"
-		},
-		{
-			"Id": "PARAM_HEIXIAN",
-			"Value": 0.11,
-			"Blend": "Add"
-		},
-		{
-			"Id": "PARAM_YINYING",
-			"Value": -0.421,
-			"Blend": "Add"
-		},
-		{
-			"Id": "PARAM_YINYING2",
-			"Value": 0.031,
+			"Value": 1,
 			"Blend": "Add"
 		},
 		{
@@ -87,18 +77,8 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_EYE_BALL_WHITE",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "PARAM_EYE_BALL_KIRA",
-			"Value": 0,
-			"Blend": "Add"
-		},
-		{
-			"Id": "PARAM_EYE_BALL_FORM",
-			"Value": -1,
+			"Id": "PARAM_ANGRY",
+			"Value": 2,
 			"Blend": "Add"
 		}
 	]

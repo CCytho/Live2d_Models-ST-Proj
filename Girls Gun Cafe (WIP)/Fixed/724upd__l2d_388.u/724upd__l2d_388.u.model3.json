@@ -62,9 +62,6 @@
 					"File": "motions/Mgirl05_shengqi.motion3.json"
 				},
 				{
-					"File": "motions/Mgirl_stand.motion3.json"
-				},
-				{
 					"File": "motions/Mgirl05_motouxiao_a.motion3.json"
 				},
 				{
@@ -72,9 +69,6 @@
 				},
 				{
 					"File": "motions/Mgirl05_stand_a.motion3.json"
-				},
-				{
-					"File": "motions/Mgirl05_stand.motion3.json"
 				},
 				{
 					"File": "motions/Mgirl_yesok1.motion3.json"
@@ -330,6 +324,12 @@
 				}
 			],
 			"Idle": [
+				{
+					"File": "motions/Mgirl_stand.motion3.json"
+				},
+				{
+					"File": "motions/Mgirl05_stand.motion3.json"
+				},
 				{
 					"File": "motions/Mgirl_stand02.motion3.json"
 				},

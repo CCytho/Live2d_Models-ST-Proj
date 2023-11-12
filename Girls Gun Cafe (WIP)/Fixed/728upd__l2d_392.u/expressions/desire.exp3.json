@@ -12,8 +12,13 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_MOUTH_FORM",
+			"Id": "PARAM_EYE_L_FORM",
 			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_MOUTH_FORM",
+			"Value": -2,
 			"Blend": "Add"
 		},
 		{
@@ -62,28 +67,83 @@
 			"Blend": "Add"
 		},
 		{
+			"Id": "PARAM_TERE",
+			"Value": 0.4,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_WATER",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_MOUTH_Y",
+			"Value": -0.277,
+			"Blend": "Add"
+		},
+		{
 			"Id": "PARAM_EYE_BALL_STAR",
 			"Value": 1,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_TERE2",
+			"Id": "PARAM_SHY",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_Y",
+			"Value": -10,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_X",
+			"Value": -10,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_Z",
+			"Value": -10,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_XIANQUN_R",
+			"Value": 10,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_CHEXIONG",
+			"Value": 10,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_HUAYAO1",
 			"Value": -1,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_TERE1",
-			"Value": 0.4,
+			"Id": "PARAM_HUAYAO2",
+			"Value": -0.88,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_XIU",
-			"Value": 0.787,
+			"Id": "PARAM_DUANDAI2_SHAKE",
+			"Value": 0,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_HEIYANQUAN",
-			"Value": 0.52,
+			"Id": "PARAM_HAND_R_02",
+			"Value": -1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_HAND_R2",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_HAND_R",
+			"Value": -0.5,
 			"Blend": "Add"
 		}
 	]

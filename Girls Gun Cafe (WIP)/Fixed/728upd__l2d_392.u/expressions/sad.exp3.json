@@ -28,7 +28,17 @@
 		},
 		{
 			"Id": "PARAM_MOUTH_FORM",
+			"Value": 1.4,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_WATER",
 			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_HEIYANQUAN",
+			"Value": -0.528,
 			"Blend": "Add"
 		},
 		{
@@ -42,43 +52,58 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_HEI",
-			"Value": 0.37,
+			"Id": "PARAM_HAN",
+			"Value": 1,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_WATER",
-			"Value": 1,
+			"Id": "PARAM_TERE",
+			"Value": 0.4,
 			"Blend": "Add"
 		},
 		{
 			"Id": "PARAM_XIU",
-			"Value": 0.614,
+			"Value": 0.5,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_EYE_BALL_FORM",
-			"Value": 1,
+			"Id": "PARAM_HEI",
+			"Value": 0.654,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_BROW_L_ANGLE",
-			"Value": 0.118,
+			"Id": "PARAM_HEIXIAN",
+			"Value": 0.071,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_BROW_R_ANGLE",
-			"Value": 0,
+			"Id": "PARAM_YINYING",
+			"Value": 0.189,
 			"Blend": "Add"
 		},
 		{
 			"Id": "PARAM_BROW_R_Y",
-			"Value": -1,
+			"Value": -0.6,
 			"Blend": "Add"
 		},
 		{
 			"Id": "PARAM_BROW_L_Y",
-			"Value": -1,
+			"Value": -0.6,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_BROW_L_ANGLE",
+			"Value": 0.87,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_BROW_R_ANGLE",
+			"Value": 0.98,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_WATER_02",
+			"Value": 0,
 			"Blend": "Add"
 		}
 	]

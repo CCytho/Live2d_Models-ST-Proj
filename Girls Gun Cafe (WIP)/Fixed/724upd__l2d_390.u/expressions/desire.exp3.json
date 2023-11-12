@@ -13,7 +13,7 @@
 		},
 		{
 			"Id": "PARAM_MOUTH_FORM",
-			"Value": -1,
+			"Value": 0,
 			"Blend": "Add"
 		},
 		{
@@ -53,7 +53,7 @@
 		},
 		{
 			"Id": "PARAM_ANGLE_Z",
-			"Value": 30,
+			"Value": -22.913,
 			"Blend": "Add"
 		},
 		{
@@ -62,28 +62,63 @@
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_EYE_BALL_STAR",
+			"Id": "PARAM_EYE_BALL_FORM",
+			"Value": 0,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_EYE_L_SMILE",
+			"Value": -0.071,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_EYE_R_SMILE",
 			"Value": 1,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_TERE2",
+			"Id": "PARAM_MOUTH_OPEN",
 			"Value": -1,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_TERE1",
-			"Value": 0.4,
+			"Id": "PARAM_MOUTH_SIZE",
+			"Value": 1,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_XIU",
-			"Value": 0.787,
+			"Id": "PARAM_TERE",
+			"Value": 0.384,
 			"Blend": "Add"
 		},
 		{
-			"Id": "PARAM_HEIYANQUAN",
-			"Value": 0.52,
+			"Id": "PARAM_RED_01",
+			"Value": 0.89,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_HANBIG",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_X",
+			"Value": -10,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_Z",
+			"Value": 0.236,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_WAVE",
+			"Value": 10,
+			"Blend": "Add"
+		},
+		{
+			"Id": "PARAM_BODY_ANGLE_Y",
+			"Value": -10,
 			"Blend": "Add"
 		}
 	]
