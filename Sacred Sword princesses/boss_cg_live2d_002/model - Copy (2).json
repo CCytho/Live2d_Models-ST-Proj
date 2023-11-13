@@ -1,8 +1,0 @@
-{    
-	"model":"model.moc",
-    "textures":[
-        "model.1024/texture_00.png",
-        "model.1024/texture_01.png"
-    ],
-    "version":"Sample 1.0.0"
-}
